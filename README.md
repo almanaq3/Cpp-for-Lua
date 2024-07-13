@@ -6,7 +6,7 @@ Este projeto contém uma função Lua que converte código fonte em C++ para Lua
 Cobertura Limitada: O conversor atual cobre apenas elementos básicos como variáveis, comentários, entradas (std::cin) e saídas (std::cout), e retorno de função. Ele não suporta estruturas complexas como classes, templates, ou bibliotecas específicas.
 
 # Conversão Parcial
-Funções, laços (for, while), e condições (if, switch) não são tratados, podendo causar erros ou conversões incompletas.
+Funções, loops (for, while), e condições (if, switch) não são tratados, podendo causar erros ou conversões incompletas.
 
 # Manipulação de Strings
 O código assume que todas as entradas e saídas são strings. Não há suporte para manipulação complexa de strings ou tipos de dados personalizados.
