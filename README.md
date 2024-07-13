@@ -1,4 +1,4 @@
-# C-for-Lua
+# Cpp-for-Lua
 
 Este projeto contém uma função Lua que converte código fonte em C++ para Lua. A conversão cobre aspectos básicos de declaração de variáveis, comentários, entrada e saída, operações e retorno da função main.
 
